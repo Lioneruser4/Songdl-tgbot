@@ -6,11 +6,9 @@
 
 ### Deploy to Heroku 🏃‍♂
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nandhunair1/Songdl-tgbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=[#](https://github.com/Lioneruser4/Songdl-tgbot)## Credits:
 
-### Credits:
-
-### [SUPPORT GROUP](https://t.me/tvseriezzz)
+### [SUPPORT GROUP](https://t.me/t)vseriezzz)
 
 ### [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 
